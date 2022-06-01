@@ -1,0 +1,1 @@
+Pasta que terá os arquivos de cada mês, para que sejam unificados e posteriomente analisados
